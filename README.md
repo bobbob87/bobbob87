@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bobbob87
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @bobbob87.
+- 👀 I’m interested in coding, video games, politics.
+- 🌱 I’m currently learning Big-O analysis.
+- 💞️ I’m looking to collaborate on any and all open source projects(especially .NET).
+- 📫 How to reach me larkenor@gmail.com.
 
 <!---
 bobbob87/bobbob87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
