@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, video games, politics.
 - 🌱 I’m currently learning Big-O analysis.
 - 💞️ I’m looking to collaborate on any and all open source projects(especially .NET).
-- 📫 How to reach me larkenor@gmail.com.
+- 📫 How to reach me MatthewScottJackson@outlook.com.
 
 <!---
 bobbob87/bobbob87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
